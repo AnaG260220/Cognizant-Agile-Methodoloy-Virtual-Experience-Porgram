@@ -1,4 +1,4 @@
-# Cognizant-Agile-Methodoloy-Virtual-Experience-Porgram
+# Cognizant-Agile-Methodoloy-Virtual-Experience-Program
 
 # Task 1: Waterfall vs Agile
 
