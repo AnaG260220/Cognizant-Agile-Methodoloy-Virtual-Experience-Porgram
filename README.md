@@ -27,5 +27,29 @@ Sprint Review
 Sprint Retrospective
 Your deliverable for this task is a 1-2 page document explaining the role assignment and ceremonies in Scrum. 
 
-# Task 4 : 
+# Task 4 :  Agile Tools and Concepts
 
+We are getting ready to begin building the initial version of the interplanetary video-conferencing app. It is time to take a close look at software tools that we can use to manage our Agile Project. 
+
+There are several tools available for Agile ALM (Application Lifecycle Management). For example, Jira, Azure DevOps, Trello, and others. Different companies and different teams use different tools.  Throughout your career you will have opportunity to have hands-on experience with several of them. 
+
+Regardless of the ALM tool that you will use, it is important to keep track of the major Agile Methodology concepts. In this task, please read about the concepts below and complete a short quiz!
+
+Complexity and Estimations
+
+You should consider the following factors while estimating a user story:
+
+Complexity: Consider the complexity of the story within the sprint
+Risk: Consider the team’s inexperience with developing this story.
+Implementation: Consider the implementation factors (UI, API, Services, Data Modelling etc.,)
+Deployment: Consider the deployment requirements.
+Interdependencies: Consider other outside issues.
+Testing: Consider the possible scenarios
+
+# Task 5 : Agile Curve Balls
+For each scenario you need to (1) diagnose the problem, and (2) suggest a resolution. You should structure your answer like this:
+
+Scenario 1:
+
+Diagnosis: xx
+Remedy: xx
